@@ -86,5 +86,3 @@ Please keep in mind that transmitting on certain frequencies without special per
 * Works on every Raspberry Pi model
 * Reads mono and stereo files
 * Reads data from stdin
-
-Included sample audio was created by [graham_makes](https://freesound.org/people/graham_makes/sounds/449409/) and published on [freesound.org](https://freesound.org/)
